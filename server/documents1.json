@@ -1,0 +1,87 @@
+{
+  "documents1" : [{
+      "id": "1",
+      "status": "active",
+      "sum": "2",
+      "qty": "4",
+      "volume": "30",
+      "name": "name1",
+      "delivery_date": "December 25, 2022",
+      "currency": "1"
+  },{
+      "id": "2",
+      "status": "active",
+      "sum": "4",
+      "qty": "3",
+      "volume": "35",
+      "name": "name2",
+      "delivery_date": "December 20, 2022",
+      "currency": "3"
+  },{
+      "id": "3",
+      "status": "active",
+      "sum": "6",
+      "qty": "6",
+      "volume": "25",
+      "name": "name3",
+      "delivery_date": "December 30, 2022",
+      "currency": "5"
+  }
+],
+    "documents2" : [{
+        "id": "4",
+        "status": "archive",
+        "sum": "2",
+        "qty": "4",
+        "volume": "30",
+        "name": "name4",
+        "delivery_date": "January 2, 2023",
+        "currency": "1"
+    },{
+        "id": "5",
+        "status": "active",
+        "sum": "4",
+        "qty": "3",
+        "volume": "35",
+        "name": "name5",
+        "delivery_date": "January 1, 2023",
+        "currency": "3"
+    },{
+        "id": "6",
+        "status": "active",
+        "sum": "6",
+        "qty": "6",
+        "volume": "25",
+        "name": "name6",
+        "delivery_date": "January 30, 2023",
+        "currency": "5"
+    },{
+        "id": "7",
+        "status": "active",
+        "sum": "2",
+        "qty": "4",
+        "volume": "30",
+        "name": "name7",
+        "delivery_date": "December 19, 2022",
+        "currency": "1"
+    },{
+        "id": "8",
+        "status": "active",
+        "sum": "4",
+        "qty": "3",
+        "volume": "35",
+        "name": "name8",
+        "delivery_date": "January 5, 2023",
+        "currency": "3"
+    },{
+        "id": "9",
+        "status": "archive",
+        "sum": "6",
+        "qty": "6",
+        "volume": "25",
+        "name": "name9",
+        "delivery_date": "January 25, 2023",
+        "currency": "5"
+    }
+  ]
+}
